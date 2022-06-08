@@ -1,5 +1,7 @@
 # Projet MIPS - Jeu du Snake
 
+Ce projet a été réalisé dans le cadre de l'UE architecture des ordinateurs de L2S3 à l'UFR de math info de Strasbourg.
+
 ## Pour commencer
 
 ### Pré-requis
